@@ -138,6 +138,3 @@ Suggestions, bug reports, and contributions are welcome.
 
 Please open an issue before submitting major changes.
 
-## 📄 License
-
-This project is intended to be released under the MIT License. See the LICENSE file for details once added.
